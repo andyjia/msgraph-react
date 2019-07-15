@@ -1,5 +1,5 @@
 ***
-![Alt Text](http://78.media.tumblr.com/ed7d4543a6b32b9e0f629ce7e88f9001/tumblr_nnbmj2ymHf1u7kc5zo1_500.gif)
+![Alt Text](https://media.giphy.com/media/LrGHJGtTbT7PO/giphy.gif)
 ***
 
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
