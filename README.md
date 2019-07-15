@@ -1,5 +1,5 @@
 ***
-![Alt Text](https://media.giphy.com/media/LrGHJGtTbT7PO/giphy.gif)
+![Alt Text](http://gif-finder.com/wp-content/uploads/2015/10/Jim-Carrey-Thumbs-Up.gif)
 ***
 
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
