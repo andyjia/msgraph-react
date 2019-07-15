@@ -1,7 +1,3 @@
-***
-![Alt Text](http://gif-finder.com/wp-content/uploads/2015/10/Jim-Carrey-Thumbs-Up.gif)
-***
-
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://media.giphy.com/media/bGCRttS05VC7K/giphy.gif)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://media.giphy.com/media/xTiTnEcelJSG8j4KYM/giphy.gifm)
@@ -57,3 +53,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+***
+![Alt Text](https://www.picgifs.com/gifs/actors-and-actresses/jim-carrey/jim-carrey-vXmn23.gif)
