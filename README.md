@@ -1,8 +1,8 @@
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://media.giphy.com/media/bGCRttS05VC7K/giphy.gif)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://media.giphy.com/media/xTiTnEcelJSG8j4KYM/giphy.gifm)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gifm)
+[![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
 ***
 ![image](https://user-images.githubusercontent.com/19554935/61254461-8ef2f000-a732-11e9-8d7a-6c5d69c61915.png)
 ***
