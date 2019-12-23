@@ -1,3 +1,14 @@
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://media.giphy.com/media/bGCRttS05VC7K/giphy.gif)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://media.giphy.com/media/xTiTnEcelJSG8j4KYM/giphy.gifm)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gifm)
+[![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://media.giphy.com/media/RkJkDlSwrJRkvGB9Pd/giphy.gif)
+***
+![image](https://user-images.githubusercontent.com/19554935/61254461-8ef2f000-a732-11e9-8d7a-6c5d69c61915.png)
+***
+![image](https://user-images.githubusercontent.com/19554935/61254535-c6fa3300-a732-11e9-8898-a5b9c9f85602.png)
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +53,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+***
+![Alt Text](https://www.picgifs.com/gifs/actors-and-actresses/jim-carrey/jim-carrey-vXmn23.gif)
